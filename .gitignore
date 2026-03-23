@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+backend/jobs/
+node_modules/
+frontend/dist/
+.vite/
+*.egg-info/
+.DS_Store
+._*
+*.tsbuildinfo
